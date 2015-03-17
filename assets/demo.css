@@ -1,0 +1,34 @@
+.wrapper {
+	margin: 0 auto;
+	max-width: 600px;
+	padding: 0 50px;
+}
+
+.config {
+	margin-bottom: 8px;
+}
+.config label {
+	margin-right: 10px;
+}
+
+.ui-accordion {
+	font-size: 80%;
+}
+
+.ui-accordion-header-icon {
+	display: none;
+}
+.ui-accordion-header.ui-accordion-icons {
+	padding-left: .7em;
+}
+
+.ui-accordion-content {
+	padding: 0em 1em !important;
+}
+
+a.repo {
+	text-decoration: none;
+}
+a.repo:hover {
+	text-decoration: underline;
+}
