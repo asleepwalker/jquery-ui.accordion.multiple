@@ -1,0 +1,39 @@
+{
+  "name": "jquery-ui.accordion.multiple",
+  "version": "1.0.0",
+  "description": "Artyom 'Sleepwalker' Fedosov <mail@asleepwalker.ru>",
+  "main": "lib/jquery-ui.accordion.multiple.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/asleepwalker/jquery-ui.accordion.multiple.git"
+  },
+  "keywords": [
+    "jquery",
+    "jquery-ui",
+    "accordion",
+    "panels",
+    "tabs",
+    "multiple",
+    "ui",
+    "content",
+    "widget",
+    "jquery-plugin"
+  ],
+  "author": "Sleepwalker <mail@asleepwalker.ru> (http://me.asleepwalker.ru/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asleepwalker/jquery-ui.accordion.multiple/issues"
+  },
+  "dependencies": {
+    "jquery": ">=1.6",
+    "jquery-ui": ">=1.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.11.0",
+    "grunt-jscs": "~1.5.0"
+  }
+}
