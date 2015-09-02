@@ -8,6 +8,8 @@ $('#accordion').accordion({
 });
 ```
 
+![multiple](https://cloud.githubusercontent.com/assets/5080313/9653796/bb14bd2e-522e-11e5-8253-8523502bac21.png)
+
 ### <a href="http://asleepwalker.github.io/jquery-ui.accordion.multiple/">Demo</a>
 
 ## License
