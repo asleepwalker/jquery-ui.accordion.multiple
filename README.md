@@ -1,4 +1,4 @@
-#jQueryUI.Accordion.Multiple &nbsp;[![Build Status](https://travis-ci.org/asleepwalker/jquery-ui.accordion.multiple.svg?branch=master)](https://travis-ci.org/asleepwalker/jquery-ui.accordion.multiple)
+#jQueryUI.Accordion.Multiple [![Build Status](https://travis-ci.org/asleepwalker/jquery-ui.accordion.multiple.svg?branch=master)](https://travis-ci.org/asleepwalker/jquery-ui.accordion.multiple) [![Dependency Status](https://gemnasium.com/badges/github.com/asleepwalker/jquery-ui.accordion.multiple.svg)](https://gemnasium.com/github.com/asleepwalker/jquery-ui.accordion.multiple)
 
 [jQuery UI](http://jqueryui.com/) plugin for [Accordion Widget](http://jqueryui.com/accordion/) that allows open few panels at the same time.
 
